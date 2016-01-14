@@ -110,7 +110,7 @@ $(function(){
       .append("path")
       .attr("class","link")
       .attr("fill", "none")
-      .attr("stroke", "red")
+      .attr("stroke", "blue")
       .attr("d",diagonal);
 
   }
